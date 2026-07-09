@@ -159,5 +159,6 @@ CLAUDE.md
 media/
 
 # Generated teaching-video assets
+projects/**/source/
 projects/**/output/
 projects/**/tmp/
